@@ -1,7 +1,7 @@
 # Homework-2
 Programming skills for computational biology
 
-# Part 1 Visualization and Image Preprocessing
+# Visualization and Image Preprocessing
 
 This homework focuses on improving data visualization and performing basic image preprocessing using Python.
 
