@@ -27,58 +27,12 @@ This repository contains a single Jupyter notebook, `Nano706_Homework2_part1.ipy
   - Decision Tree (with confusion matrix, classification report, feature importances, optional tree plot)
   - Logistic Regression with pipeline + GridSearchCV (confusion matrix, classification report, coefficient importances)
 
-## Prerequisites
-
-- Python 3.9+ (tested with 3.10)
-- Jupyter
-- Packages:
-  - numpy, pandas, matplotlib, seaborn
-  - scikit-learn
-  - graphviz, pydot
-
-Install Python packages:
-
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn graphviz pydot
-```
-
-To render the decision tree image, you must also install the Graphviz system binaries:
-
-- macOS (Homebrew):
-
-```bash
-brew install graphviz
-```
-
-- Ubuntu/Debian:
-
-```bash
-sudo apt-get update && sudo apt-get install -y graphviz
-```
-
-- Windows:
-
-1) Download and install Graphviz from https://graphviz.org/download/
-2) Add the Graphviz `bin` directory to your PATH (e.g., `C:\Program Files\Graphviz\bin`).
-
-## How to run
-
-1. Start Jupyter and open the notebook:
-
-```bash
-jupyter notebook Nano706_Homework2_part1.ipynb
-```
-
-2. Run cells in order. Plots will display inline. If Graphviz is installed, running the Decision Tree section will create/overwrite:
-
-- `iris_decision_tree` (DOT file)
-- `iris_decision_tree.png`
 
 ## Expected outputs
 
 - Multiple inline figures for regression/classification/clustering sections.
 - Console metrics such as accuracies and classification reports (e.g., SVM ≈ 0.98 on Wine, Decision Tree ≈ 0.96, Logistic Regression up to 1.00 depending on split/seed).
-- `iris_decision_tree.png` in the repository root when Graphviz is available.
+- `iris_decision_tree.png` in the repository root 
 
 ## Notes and troubleshooting
 
