@@ -30,7 +30,7 @@ This repository contains a single Jupyter notebook, `Nano706_Homework2_part1.ipy
   - Logistic Regression with pipeline + GridSearchCV (confusion matrix, classification report, coefficient importances)
 
 
-## Expected outputs
+##  outputs
 
 - Multiple inline figures for regression/classification/clustering sections.
 - <img width="646" height="511" alt="Regression" src="https://github.com/user-attachments/assets/2e18aa16-1b95-4b68-ae31-9e81f4d62c09" />
@@ -51,7 +51,8 @@ This repository contains a single Jupyter notebook, `Nano706_Homework2_part1.ipy
 
 - The notebook uses `random_state=42` for train/test splits and some models to improve reproducibility.
 - Exact metrics can vary slightly with library versions and platform.
-- Key Takeaways
+
+## Key Takeaways
 
 Demonstrates the complete machine learning workflow: data preprocessing → model training → evaluation → visualization.
 
