@@ -4,7 +4,8 @@ This repository contains a single Jupyter notebook, `Nano706_Homework2_part1.ipy
 
 ## Contents
 
-- `Nano706_Homework2_part1.ipynb`
+- `Nano706_Homework2_part1.ipynb
+- classification report
 - `iris_decision_tree` (Graphviz DOT file exported from a trained Decision Tree)
 - `iris_decision_tree.png` (rendered decision tree image)
 
@@ -34,6 +35,7 @@ This repository contains a single Jupyter notebook, `Nano706_Homework2_part1.ipy
 - Multiple inline figures for regression/classification/clustering sections.
 - Console metrics such as accuracies and classification reports
 - (e.g., SVM ≈ 0.98 on Wine, Decision Tree ≈ 0.96, Logistic Regression up to 1.00 depending on split/seed).
+- <img width="526" height="232" alt="classification report" src="https://github.com/user-attachments/assets/d2c2b0eb-339b-43a1-b15d-a483b6565ddd" />
 - `iris_decision_tree.png` in the repository root
 - <img width="1033" height="1053" alt="image" src="https://github.com/user-attachments/assets/e8a61236-5b87-402a-9ea2-46c6cdbc5cd2" />
 
