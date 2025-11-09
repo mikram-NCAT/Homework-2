@@ -33,6 +33,7 @@ This repository contains a single Jupyter notebook, `Nano706_Homework2_part1.ipy
 ## Expected outputs
 
 - Multiple inline figures for regression/classification/clustering sections.
+- <img width="646" height="511" alt="Regression" src="https://github.com/user-attachments/assets/2e18aa16-1b95-4b68-ae31-9e81f4d62c09" />
 - Console metrics such as accuracies and classification reports
 - (e.g., SVM ≈ 0.98 on Wine, Decision Tree ≈ 0.96, Logistic Regression up to 1.00 depending on split/seed).
 - <img width="526" height="232" alt="classification report" src="https://github.com/user-attachments/assets/d2c2b0eb-339b-43a1-b15d-a483b6565ddd" />
@@ -50,3 +51,10 @@ This repository contains a single Jupyter notebook, `Nano706_Homework2_part1.ipy
 
 - The notebook uses `random_state=42` for train/test splits and some models to improve reproducibility.
 - Exact metrics can vary slightly with library versions and platform.
+- Key Takeaways
+
+Demonstrates the complete machine learning workflow: data preprocessing → model training → evaluation → visualization.
+
+SVM and Logistic Regression performed best on the Wine dataset, with accuracies near or equal to 100%.
+
+Graphviz decision tree rendering and reproducibility tips ensure consistent results across runs.
