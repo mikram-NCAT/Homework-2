@@ -6,6 +6,7 @@ This repository contains a single Jupyter notebook, `Nano706_Homework2_part1.ipy
 
 - `Nano706_Homework2_part1.ipynb
 - classification report
+- Regression Model
 - `iris_decision_tree` (Graphviz DOT file exported from a trained Decision Tree)
 - `iris_decision_tree.png` (rendered decision tree image)
 
