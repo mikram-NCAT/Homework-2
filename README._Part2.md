@@ -41,4 +41,10 @@ A pre-trained YOLOv8n-Face model was used to detect and localize faces in real i
 I tested the model on my own uploaded photo, and the detection results were visualized with bounding boxes around detected faces.
 This demonstrated the practical use of deep learning models for real-world computer vision tasks.
 <img width="768" height="632" alt="ikram-image" src="https://github.com/user-attachments/assets/2f322f59-e788-41fc-8d1e-8e7dd6281a71" />
+# Overall Learning Outcome
+
+Strengthened understanding of the data-to-model pipeline — from visualization and preprocessing to model training and evaluation.
+Gained hands-on experience integrating classical ML and deep learning techniques for biological and visual data analysis.
+Successfully utilized a YOLOv8n-Face pre-trained model for real-world face detection.
+Demonstrated accurate face localization on a personal image, highlighting the efficiency of modern deep learning architectures in computer vision.
 
